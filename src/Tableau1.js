@@ -49,19 +49,19 @@ class Tableau1 extends Phaser.Scene{
         //*****Les videos*****//
         this.load.video('tom-scream3P','fichiers-audio-video/videos/tom-scream3.MP4','loadeddata', false, true);
         this.load.video('birdsP','fichiers-audio-video/videos/birds.MP4','loadeddata', false, true);
-        this.load.video('boomP','fichiers-audio-video/videos/boom.MP4','loadeddata', false, true);
-        this.load.video('loupP','fichiers-audio-video/videos/cri-du-loup.MP4','loadeddata', false, true);
+        this.load.video('boomP','fichiers-audio-video/videos/boom.mp4','loadeddata', false, true);
+        this.load.video('loupP','fichiers-audio-video/videos/cri-du-loup.mp4','loadeddata', false, true);
         this.load.video('dog-smashP','fichiers-audio-video/videos/dog-smash.MP4','loadeddata', false, true);
-        this.load.video('gunshotP','fichiers-audio-video/videos/Gunshot.MP4','loadeddata', false, true);
+        this.load.video('gunshotP','fichiers-audio-video/videos/Gunshot.mp4','loadeddata', false, true);
         this.load.video('im-dying-againP','fichiers-audio-video/videos/im-dying-again.MP4','loadeddata', false, true);
         this.load.video('koi29P','fichiers-audio-video/videos/koi29.MP4','loadeddata', false, true);
         this.load.video('main-dans-lsacP','fichiers-audio-video/videos/main-dans-lsac.MP4','loadeddata', false, true);
-        this.load.video('mgmP','fichiers-audio-video/videos/mgm.MP4','loadeddata', false, true);
+        this.load.video('mgmP','fichiers-audio-video/videos/mgm.mp4','loadeddata', false, true);
         this.load.video('moi-cest-rintintinP','fichiers-audio-video/videos/moi-cest-rintintin.MP4','loadeddata', false, true);
         this.load.video('quietP','fichiers-audio-video/videos/quiet.MP4','loadeddata', false, true);
         this.load.video('roulementP','fichiers-audio-video/videos/roulement2.MP4','loadeddata', false, true);
         this.load.video('shut-upP','fichiers-audio-video/videos/shut-up2.MP4','loadeddata', false, true);
-        this.load.video('silenceP','fichiers-audio-video/videos/silence.MP4','loadeddata', false, true);
+        this.load.video('silenceP','fichiers-audio-video/videos/silence.mp4','loadeddata', false, true);
         this.load.video('spike-laughP','fichiers-audio-video/videos/spike-laugh.MP4','loadeddata', false, true);
         this.load.video('spike-roarP','fichiers-audio-video/videos/spike-roar.MP4','loadeddata', false, true);
         this.load.video('tom-absP','fichiers-audio-video/videos/tom_abs.MP4','loadeddata', false, true);
